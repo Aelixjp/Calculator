@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_0">0</string>
+    <string name="mas">±</string>
+    <string name="_zero">0</string>
+    <string name="_6">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="one">1</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="borrar">C</string>
+    <string name="div">/</string>
+    <string name="multi">*</string>
+    <string name="rest">-</string>
+    <string name="plus">+</string>
+    <string name="igual">=</string>
+    <string name="point">.</string>
+    <string name="calculo"></string>
+</resources>
